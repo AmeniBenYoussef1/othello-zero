@@ -89,9 +89,7 @@ engine/      moteur de jeu (bitboards)
 agents/      agents de référence et agent MCTS neuronal
 model/       réseau PyTorch, boucle d'entraînement
 selfplay/    génération de parties, tampon de rejeu
-evaluation/  tournois, classement Elo, ablations
+eval/        tournois, classement Elo, ablations
 demo/        démonstrateur interactif (Gradio)
 tests/       tests unitaires
 ```
-
-
